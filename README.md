@@ -1,5 +1,16 @@
 #                                     TUGAS BAHASA PEMROGRAMAN PRAKTIKUM 5
-                  
+# Tugas Praktikum
+* Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan
+• Program dibuat dengan menggunakan Dictionary
+• Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data,
+Tampilkan Data, Cari Data)
+• Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,
+uts: 35%, uas: 35%)
+• Buat flowchart dan penjelasan programnya pada README.md.
+• Commit dan push repository ke github.                  
+
+------------------------------------------------------------------------
+
 * Pembahasan Program akan menampilkan pilihan Untuk Menambah, Merubah, Mencari , Melihat & Menghapus.
 ![foto 1](https://user-images.githubusercontent.com/57026867/70389129-c74edf80-19ed-11ea-8614-c0e9fd82411f.jpg)
 * Ketik : 't' , Untuk Menginput data baru : Nama, NIM, Tugas, UTS, UAS. ( sesuaikan dengan kebutuhan )
@@ -26,5 +37,5 @@
 
 
 
-#               ========== Ade Picky Ammarullah ===========
-#               ==========      311910182       ===========
+               ========== Ade Picky Ammarullah ===========
+               ==========      311910182       ===========
