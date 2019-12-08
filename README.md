@@ -17,3 +17,14 @@
 ![foto 7](https://user-images.githubusercontent.com/57026867/70389246-62948480-19ef-11ea-9798-1e74f94a41f6.jpg)
 * ketik "k" apabila kita ingin keluar dari program tersebut dan kita akan kembali ke tampilan coding kita.
 ![foto 9](https://user-images.githubusercontent.com/57026867/70389258-8bb51500-19ef-11ea-9d3f-9bfe9b6fcefe.jpg)
+
+#                     Flowchart sebagai berikut :
+![flowchart praktikum 5](https://user-images.githubusercontent.com/57026867/70398003-90a6b280-1a49-11ea-8724-fe2eab983fc6.jpg)
+
+
+
+
+
+
+#               ========== Ade Picky Ammarullah ===========
+#               ==========      311910182       ===========
